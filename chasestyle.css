@@ -765,6 +765,7 @@ body {
         linear-gradient(217deg, rgba(0, 183, 255, 0.8), rgba(255, 0, 0, 0) 70.71%),
         linear-gradient(127deg, rgba(0, 9, 139, 0.8), rgba(0, 255, 0, 0) 70.71%),
         linear-gradient(336deg, rgba(0, 0, 255, 0.8), rgba(0, 0, 255, 0) 70.71%);
+    color: antiquewhite;
     border-radius: 15px;
     font-size: larger;
     border: none;
